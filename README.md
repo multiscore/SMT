@@ -1,7 +1,9 @@
 # ⚠️ Repository Migration Notice
 **This repository is no longer actively maintained.**
+
 The latest version of this project is being updated at the main repository. All future development, updates, and releases will be available at:
 🔗 [https://github.com/antoniorv6/SMT]
+
 ---
 <p align='center'>
   <a href='https://praig.ua.es/'><img src='https://i.imgur.com/Iu7CvC1.png' alt='PRAIG-logo' width='100'></a>
